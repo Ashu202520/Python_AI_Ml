@@ -1,0 +1,1271 @@
+--------------------------------------------------
+-----Marvellous Platform Surveillance System------
+Log Created at :Fri Feb 13 19:59:10 2026
+--------------------------------------------------
+
+--------------System Report------------------------
+CPU Usage : 47.2 %
+--------------------------------------------------
+RAM Usage : 89.5 %
+--------------------------------------------------
+
+Process Report With PID and Open Files
+Process running in the system : System Idle Process
+PID : 0
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : System
+PID : 4
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : Registry
+PID : 100
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 364
+Number of files open : 33
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+PID : 400
+Access Denied
+--------------------------------------------------
+Process running in the system : smss.exe
+PID : 592
+Access Denied
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+PID : 616
+Access Denied
+--------------------------------------------------
+Process running in the system : csrss.exe
+PID : 708
+Access Denied
+--------------------------------------------------
+Process running in the system : igfxCUIService.exe
+PID : 796
+Access Denied
+--------------------------------------------------
+Process running in the system : csrss.exe
+PID : 804
+Access Denied
+--------------------------------------------------
+Process running in the system : wininit.exe
+PID : 820
+Access Denied
+--------------------------------------------------
+Process running in the system : services.exe
+PID : 876
+Access Denied
+--------------------------------------------------
+Process running in the system : lsass.exe
+PID : 884
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1016
+Access Denied
+--------------------------------------------------
+Process running in the system : winlogon.exe
+PID : 1032
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1052
+Access Denied
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+PID : 1124
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1172
+Access Denied
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+PID : 1216
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1320
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1328
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1336
+Access Denied
+--------------------------------------------------
+Process running in the system : StartMenuExperienceHost.exe
+PID : 1376
+Number of files open : 15
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1400
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1448
+Access Denied
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID : 1460
+Number of files open : 5
+--------------------------------------------------
+Process running in the system : dwm.exe
+PID : 1496
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1544
+Access Denied
+--------------------------------------------------
+Process running in the system : IntelCpHDCPSvc.exe
+PID : 1576
+Access Denied
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID : 1620
+Number of files open : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1656
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1800
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1808
+Access Denied
+--------------------------------------------------
+Process running in the system : pet.exe
+PID : 1828
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : sihost.exe
+PID : 1884
+Number of files open : 5
+--------------------------------------------------
+Process running in the system : IntelCpHeciSvc.exe
+PID : 1888
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1932
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1960
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 1996
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2116
+Access Denied
+--------------------------------------------------
+Process running in the system : MemCompression
+PID : 2124
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2156
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2228
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2320
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 2328
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : SynTPEnhService.exe
+PID : 2352
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2368
+Access Denied
+--------------------------------------------------
+Process running in the system : WmiPrvSE.exe
+PID : 2372
+Access Denied
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 2380
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2396
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2448
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2500
+Access Denied
+--------------------------------------------------
+Process running in the system : dasHost.exe
+PID : 2536
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2604
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2624
+Access Denied
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+PID : 2700
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2724
+Access Denied
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 2732
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2876
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2908
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2916
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2932
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 2960
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3008
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3016
+Access Denied
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 3036
+Number of files open : 18
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3080
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3160
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3240
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3312
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3460
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3544
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3552
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3560
+Access Denied
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 3612
+Number of files open : 16
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+PID : 3708
+Access Denied
+--------------------------------------------------
+Process running in the system : UserOOBEBroker.exe
+PID : 3756
+Number of files open : 2
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3816
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3836
+Number of files open : 18
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 3840
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3848
+Access Denied
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 3884
+Number of files open : 48
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3904
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3940
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 3964
+Access Denied
+--------------------------------------------------
+Process running in the system : spoolsv.exe
+PID : 4028
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4068
+Number of files open : 2
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4080
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4100
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4112
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4120
+Access Denied
+--------------------------------------------------
+Process running in the system : HPSIsvc.exe
+PID : 4132
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4144
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4168
+Access Denied
+--------------------------------------------------
+Process running in the system : AnyDesk.exe
+PID : 4204
+Access Denied
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 4212
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : AdskLicensingService.exe
+PID : 4244
+Access Denied
+--------------------------------------------------
+Process running in the system : OneApp.IGCC.WinService.exe
+PID : 4252
+Access Denied
+--------------------------------------------------
+Process running in the system : esif_uf.exe
+PID : 4264
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4320
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4364
+Number of files open : 12
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4384
+Access Denied
+--------------------------------------------------
+Process running in the system : FNPLicensingService.exe
+PID : 4416
+Access Denied
+--------------------------------------------------
+Process running in the system : RtkBtManServ.exe
+PID : 4428
+Access Denied
+--------------------------------------------------
+Process running in the system : XtuService.exe
+PID : 4440
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4452
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4460
+Access Denied
+--------------------------------------------------
+Process running in the system : CxAudioSvc.exe
+PID : 4480
+Access Denied
+--------------------------------------------------
+Process running in the system : SECOMN64.exe
+PID : 4488
+Access Denied
+--------------------------------------------------
+Process running in the system : SynAudSrv.exe
+PID : 4500
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4556
+Access Denied
+--------------------------------------------------
+Process running in the system : sqlwriter.exe
+PID : 4612
+Access Denied
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+PID : 4624
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4632
+Access Denied
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 4648
+Number of files open : 64
+--------------------------------------------------
+Process running in the system : RstMwService.exe
+PID : 4652
+Access Denied
+--------------------------------------------------
+Process running in the system : wslservice.exe
+PID : 4660
+Access Denied
+--------------------------------------------------
+Process running in the system : ReportingServicesService.exe
+PID : 4672
+Access Denied
+--------------------------------------------------
+Process running in the system : LMS.exe
+PID : 4720
+Access Denied
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+PID : 4732
+Access Denied
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 4804
+Number of files open : 4
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 4872
+Access Denied
+--------------------------------------------------
+Process running in the system : prevhost.exe
+PID : 4920
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : jhi_service.exe
+PID : 4972
+Access Denied
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 5020
+Number of files open : 22
+--------------------------------------------------
+Process running in the system : ShellExperienceHost.exe
+PID : 5272
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+PID : 5292
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 5324
+Access Denied
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID : 5408
+Number of files open : 10
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 5484
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 5512
+Number of files open : 21
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 6020
+Number of files open : 10
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+PID : 6116
+Number of files open : 11
+--------------------------------------------------
+Process running in the system : SecurityHealthService.exe
+PID : 6156
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 6176
+Number of files open : 19
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 6380
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 6772
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 6900
+Access Denied
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID : 6996
+Access Denied
+--------------------------------------------------
+Process running in the system : nearby_share.exe
+PID : 7040
+Number of files open : 15
+--------------------------------------------------
+Process running in the system : fdlauncher.exe
+PID : 7104
+Access Denied
+--------------------------------------------------
+Process running in the system : SynTPEnh.exe
+PID : 7112
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : NisSrv.exe
+PID : 7156
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 7332
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 7440
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 7556
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 7584
+Number of files open : 23
+--------------------------------------------------
+Process running in the system : PresentationFontCache.exe
+PID : 7976
+Access Denied
+--------------------------------------------------
+Process running in the system : SearchIndexer.exe
+PID : 8008
+Access Denied
+--------------------------------------------------
+Process running in the system : fdhost.exe
+PID : 8048
+Access Denied
+--------------------------------------------------
+Process running in the system : SECOCL64.exe
+PID : 8052
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 8060
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 8120
+Access Denied
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID : 8216
+Number of files open : 11
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 8324
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 8480
+Number of files open : 91
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 8492
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 8504
+Number of files open : 17
+--------------------------------------------------
+Process running in the system : ctfmon.exe
+PID : 8556
+Access Denied
+--------------------------------------------------
+Process running in the system : igfxEM.exe
+PID : 8704
+Number of files open : 2
+--------------------------------------------------
+Process running in the system : explorer.exe
+PID : 8776
+Number of files open : 96
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 8860
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 8932
+Number of files open : 24
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 8960
+Access Denied
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 9092
+Number of files open : 23
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 9160
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 9168
+Access Denied
+--------------------------------------------------
+Process running in the system : AggregatorHost.exe
+PID : 9400
+Access Denied
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID : 9856
+Number of files open : 8
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 10108
+Number of files open : 5
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+PID : 10156
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : MsMpEng.exe
+PID : 10272
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 10308
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : Grammarly.Desktop.exe
+PID : 10332
+Number of files open : 185
+--------------------------------------------------
+Process running in the system : TextInputHost.exe
+PID : 10348
+Number of files open : 7
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 10624
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 10784
+Number of files open : 19
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 10792
+Number of files open : 3
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 10880
+Number of files open : 16
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 11104
+Number of files open : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 11112
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 11392
+Number of files open : 12
+--------------------------------------------------
+Process running in the system : SystemSettingsBroker.exe
+PID : 11492
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 11552
+Number of files open : 111
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 11740
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 11900
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+PID : 11984
+Number of files open : 56
+--------------------------------------------------
+Process running in the system : Grammarly.WebUI.exe
+PID : 12112
+Number of files open : 3
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 12256
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 12372
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 12548
+Number of files open : 12
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 12788
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : LockApp.exe
+PID : 12920
+Number of files open : 13
+--------------------------------------------------
+Process running in the system : pet.exe
+PID : 12992
+Number of files open : 3
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID : 13216
+Number of files open : 7
+--------------------------------------------------
+Process running in the system : ApplicationFrameHost.exe
+PID : 13504
+Number of files open : 8
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 13736
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 13772
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : TabTip.exe
+PID : 13780
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 13952
+Number of files open : 91
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 14024
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 14052
+Access Denied
+--------------------------------------------------
+Process running in the system : BraveCrashHandler.exe
+PID : 14076
+Access Denied
+--------------------------------------------------
+Process running in the system : BraveCrashHandler64.exe
+PID : 14084
+Access Denied
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID : 14292
+Number of files open : 4
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 14324
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 14420
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : IGCC.exe
+PID : 14460
+Number of files open : 8
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 14612
+Number of files open : 87
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 14688
+Access Denied
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 14924
+Number of files open : 10
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 14936
+Number of files open : 35
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 15072
+Number of files open : 33
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 15128
+Number of files open : 201
+--------------------------------------------------
+Process running in the system : SearchFilterHost.exe
+PID : 15252
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 15844
+Access Denied
+--------------------------------------------------
+Process running in the system : CompPkgSrv.exe
+PID : 16080
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID : 16320
+Access Denied
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 16348
+Number of files open : 7
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 16356
+Number of files open : 11
+--------------------------------------------------
+Process running in the system : MpDefenderCoreService.exe
+PID : 16692
+Access Denied
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 16816
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 17020
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 17096
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID : 17160
+Number of files open : 3
+--------------------------------------------------
+Process running in the system : SystemSettings.exe
+PID : 17224
+Number of files open : 14
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 17372
+Number of files open : 99
+--------------------------------------------------
+Process running in the system : MoUsoCoreWorker.exe
+PID : 17640
+Access Denied
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 17904
+Number of files open : 10
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 17908
+Number of files open : 49
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID : 17944
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 18088
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 18128
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 18168
+Number of files open : 16
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 18300
+Number of files open : 14
+--------------------------------------------------
+Process running in the system : audiodg.exe
+PID : 18472
+Access Denied
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 18744
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 18808
+Number of files open : 23
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 18940
+Number of files open : 42
+--------------------------------------------------
+Process running in the system : wlanext.exe
+PID : 19332
+Access Denied
+--------------------------------------------------
+Process running in the system : python.exe
+PID : 19396
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 19568
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 19760
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 19844
+Number of files open : 2
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 19924
+Number of files open : 44
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 19952
+Number of files open : 8
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 20484
+Number of files open : 48
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 20752
+Number of files open : 21
+--------------------------------------------------
+Process running in the system : HelpPane.exe
+PID : 20884
+Number of files open : 5
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 20888
+Number of files open : 7
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID : 20964
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 20992
+Number of files open : 10
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 21052
+Number of files open : 3
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 21548
+Number of files open : 8
+--------------------------------------------------
+Process running in the system : WmiPrvSE.exe
+PID : 21660
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 21784
+Number of files open : 106
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID : 21824
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.exe
+PID : 22252
+Number of files open : 34
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 22348
+Number of files open : 23
+--------------------------------------------------
+Process running in the system : Video.UI.exe
+PID : 22468
+Number of files open : 10
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 22712
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 22824
+Number of files open : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 23032
+Number of files open : 2
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 23124
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 23532
+Number of files open : 17
+--------------------------------------------------
+Process running in the system : FileCoAuth.exe
+PID : 23796
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : crashpad_handler.exe
+PID : 23952
+Number of files open : 0
+--------------------------------------------------
+Process running in the system : M365Copilot.exe
+PID : 23988
+Number of files open : 21
+--------------------------------------------------
+Process running in the system : notepad++.exe
+PID : 24080
+Number of files open : 6
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 24164
+Access Denied
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID : 24536
+Access Denied
+--------------------------------------------------
+Process running in the system : BraveUpdate.exe
+PID : 24604
+Access Denied
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 24880
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.tmp
+PID : 25428
+Number of files open : 7
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID : 25504
+Number of files open : 2
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 25544
+Number of files open : 15
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 25680
+Number of files open : 101
+--------------------------------------------------
+Process running in the system : cmd.exe
+PID : 26100
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 26132
+Number of files open : 23
+--------------------------------------------------
+Process running in the system : python.exe
+PID : 26252
+Number of files open : 2
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 26272
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 26408
+Number of files open : 35
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 26940
+Access Denied
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 27212
+Number of files open : 9
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID : 27216
+Number of files open : 23
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 27288
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : OneDrive.Sync.Service.exe
+PID : 27348
+Number of files open : 19
+--------------------------------------------------
+Process running in the system : SearchProtocolHost.exe
+PID : 27352
+Access Denied
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID : 27400
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 27620
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : OneDrive.exe
+PID : 27792
+Number of files open : 49
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 27820
+Number of files open : 37
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID : 28092
+Number of files open : 1
+--------------------------------------------------
+Process running in the system : Code.exe
+PID : 28296
+Number of files open : 8
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID : 28620
+Number of files open : 22
+--------------------------------------------------
+
+Top 10 Memory Consuming Processes
+--------------------------------------------------
+Process : Code.exe
+PID : 3612
+RSS : 433.14 MB
+VMS : 739.45 MB
+Memory Percentage : 5.35
+--------------------------------------------------
+Process : Code.exe
+PID : 25544
+RSS : 352.57 MB
+VMS : 1605.26 MB
+Memory Percentage : 4.36
+--------------------------------------------------
+Process : Code.exe
+PID : 3884
+RSS : 305.02 MB
+VMS : 393.80 MB
+Memory Percentage : 3.77
+--------------------------------------------------
+Process : Code.exe
+PID : 22348
+RSS : 290.54 MB
+VMS : 532.00 MB
+Memory Percentage : 3.59
+--------------------------------------------------
+Process : Grammarly.Desktop.exe
+PID : 10332
+RSS : 248.60 MB
+VMS : 218.51 MB
+Memory Percentage : 3.07
+--------------------------------------------------
+Process : chrome.exe
+PID : 4648
+RSS : 243.91 MB
+VMS : 490.06 MB
+Memory Percentage : 3.01
+--------------------------------------------------
+Process : chrome.exe
+PID : 14612
+RSS : 226.55 MB
+VMS : 308.16 MB
+Memory Percentage : 2.80
+--------------------------------------------------
+Process : explorer.exe
+PID : 8776
+RSS : 218.93 MB
+VMS : 613.18 MB
+Memory Percentage : 2.70
+--------------------------------------------------
+Process : chrome.exe
+PID : 19924
+RSS : 213.52 MB
+VMS : 182.25 MB
+Memory Percentage : 2.64
+--------------------------------------------------
+Process : Code.exe
+PID : 17908
+RSS : 213.38 MB
+VMS : 462.23 MB
+Memory Percentage : 2.64
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 95.8 % used
+D:\ -> 22.4 % used
+E:\ -> 41.9 % used
+F:\ -> 33.9 % used
+G:\ -> 67.8 % used
+--------------------------------------------------
+
+Network Usage Report
+Sent : 50.44 MB
+Recv : 265.59 MB
+--------------------------------------------------
+------------End of Log File-------
+--------------------------------------------------

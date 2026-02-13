@@ -1,0 +1,1160 @@
+--------------------------------------------------
+-----Marvellous Platform Surveillance System------
+Log Created at :Fri Feb 13 19:21:15 2026
+--------------------------------------------------
+
+--------------System Report------------------------
+CPU Usage : 57.2 %
+--------------------------------------------------
+RAM Usage : 84.7 %
+--------------------------------------------------
+
+Process Report With PID and Thread Count
+Process running in the system : System Idle Process
+PID of the process is : 0
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : System
+PID of the process is : 4
+Thread Count of the process is : 234
+--------------------------------------------------
+Process running in the system : Registry
+PID of the process is : 100
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 364
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+PID of the process is : 400
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : smss.exe
+PID of the process is : 592
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+PID of the process is : 616
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : csrss.exe
+PID of the process is : 708
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : igfxCUIService.exe
+PID of the process is : 796
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : csrss.exe
+PID of the process is : 804
+Thread Count of the process is : 14
+--------------------------------------------------
+Process running in the system : wininit.exe
+PID of the process is : 820
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : services.exe
+PID of the process is : 876
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : lsass.exe
+PID of the process is : 884
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1016
+Thread Count of the process is : 13
+--------------------------------------------------
+Process running in the system : winlogon.exe
+PID of the process is : 1032
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1052
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+PID of the process is : 1124
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1172
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+PID of the process is : 1216
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1320
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1328
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1336
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : StartMenuExperienceHost.exe
+PID of the process is : 1376
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1400
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1448
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 1460
+Thread Count of the process is : 13
+--------------------------------------------------
+Process running in the system : dwm.exe
+PID of the process is : 1496
+Thread Count of the process is : 14
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1544
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : IntelCpHDCPSvc.exe
+PID of the process is : 1576
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 1620
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1656
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1800
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1808
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : pet.exe
+PID of the process is : 1828
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 1860
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : sihost.exe
+PID of the process is : 1884
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : IntelCpHeciSvc.exe
+PID of the process is : 1888
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1932
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1960
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1996
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2116
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : MemCompression
+PID of the process is : 2124
+Thread Count of the process is : 230
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2156
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2228
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2320
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : SynTPEnhService.exe
+PID of the process is : 2352
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2368
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : WmiPrvSE.exe
+PID of the process is : 2372
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 2380
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2396
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2448
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2500
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : dasHost.exe
+PID of the process is : 2536
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2604
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2624
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+PID of the process is : 2700
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2724
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 2732
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2876
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2908
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2916
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2932
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2960
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3008
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3016
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 3036
+Thread Count of the process is : 27
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3080
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3160
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3240
+Thread Count of the process is : 13
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3312
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3460
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3544
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3552
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3560
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 3612
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+PID of the process is : 3708
+Thread Count of the process is : 33
+--------------------------------------------------
+Process running in the system : UserOOBEBroker.exe
+PID of the process is : 3756
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3816
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3836
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 3840
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3848
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 3884
+Thread Count of the process is : 19
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3904
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3940
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3964
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : spoolsv.exe
+PID of the process is : 4028
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4068
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4080
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4100
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4112
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4120
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : HPSIsvc.exe
+PID of the process is : 4132
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4144
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4168
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : AnyDesk.exe
+PID of the process is : 4204
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 4212
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : AdskLicensingService.exe
+PID of the process is : 4244
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : OneApp.IGCC.WinService.exe
+PID of the process is : 4252
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : esif_uf.exe
+PID of the process is : 4264
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4320
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4364
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4384
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : FNPLicensingService.exe
+PID of the process is : 4416
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : RtkBtManServ.exe
+PID of the process is : 4428
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : XtuService.exe
+PID of the process is : 4440
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4452
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4460
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : CxAudioSvc.exe
+PID of the process is : 4480
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : SECOMN64.exe
+PID of the process is : 4488
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : SynAudSrv.exe
+PID of the process is : 4500
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4556
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : sqlwriter.exe
+PID of the process is : 4612
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+PID of the process is : 4624
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4632
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 4648
+Thread Count of the process is : 19
+--------------------------------------------------
+Process running in the system : RstMwService.exe
+PID of the process is : 4652
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : wslservice.exe
+PID of the process is : 4660
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : ReportingServicesService.exe
+PID of the process is : 4672
+Thread Count of the process is : 43
+--------------------------------------------------
+Process running in the system : LMS.exe
+PID of the process is : 4720
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+PID of the process is : 4732
+Thread Count of the process is : 35
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 4804
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4872
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : prevhost.exe
+PID of the process is : 4920
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : jhi_service.exe
+PID of the process is : 4972
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 5020
+Thread Count of the process is : 18
+--------------------------------------------------
+Process running in the system : ShellExperienceHost.exe
+PID of the process is : 5272
+Thread Count of the process is : 32
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+PID of the process is : 5292
+Thread Count of the process is : 44
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 5324
+Thread Count of the process is : 13
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 5408
+Thread Count of the process is : 14
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 5584
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+PID of the process is : 6116
+Thread Count of the process is : 13
+--------------------------------------------------
+Process running in the system : SecurityHealthService.exe
+PID of the process is : 6156
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 6176
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 6380
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 6772
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 6900
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 6996
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : nearby_share.exe
+PID of the process is : 7040
+Thread Count of the process is : 131
+--------------------------------------------------
+Process running in the system : fdlauncher.exe
+PID of the process is : 7104
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : SynTPEnh.exe
+PID of the process is : 7112
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : NisSrv.exe
+PID of the process is : 7156
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 7332
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 7440
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 7556
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 7584
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : PresentationFontCache.exe
+PID of the process is : 7976
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : SearchIndexer.exe
+PID of the process is : 8008
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : fdhost.exe
+PID of the process is : 8048
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : SECOCL64.exe
+PID of the process is : 8052
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 8060
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 8120
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID of the process is : 8216
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 8324
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 8480
+Thread Count of the process is : 51
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 8492
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 8504
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : ctfmon.exe
+PID of the process is : 8556
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : igfxEM.exe
+PID of the process is : 8704
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : explorer.exe
+PID of the process is : 8776
+Thread Count of the process is : 164
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 8932
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 8960
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 9092
+Thread Count of the process is : 28
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 9160
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 9168
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : AggregatorHost.exe
+PID of the process is : 9400
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : python.exe
+PID of the process is : 9584
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 9856
+Thread Count of the process is : 13
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 10108
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+PID of the process is : 10156
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : MsMpEng.exe
+PID of the process is : 10272
+Thread Count of the process is : 32
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10308
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : Grammarly.Desktop.exe
+PID of the process is : 10332
+Thread Count of the process is : 52
+--------------------------------------------------
+Process running in the system : TextInputHost.exe
+PID of the process is : 10348
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 10624
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10784
+Thread Count of the process is : 19
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10792
+Thread Count of the process is : 19
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10880
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 11104
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 11112
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 11392
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : SystemSettingsBroker.exe
+PID of the process is : 11492
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+PID of the process is : 11984
+Thread Count of the process is : 53
+--------------------------------------------------
+Process running in the system : Grammarly.WebUI.exe
+PID of the process is : 12112
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 12256
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 12372
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 12548
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 12788
+Thread Count of the process is : 39
+--------------------------------------------------
+Process running in the system : LockApp.exe
+PID of the process is : 12920
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : pet.exe
+PID of the process is : 12992
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 13216
+Thread Count of the process is : 14
+--------------------------------------------------
+Process running in the system : ApplicationFrameHost.exe
+PID of the process is : 13504
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : SearchFilterHost.exe
+PID of the process is : 13672
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 13736
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 13772
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : TabTip.exe
+PID of the process is : 13780
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 13952
+Thread Count of the process is : 49
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 14024
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 14052
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : BraveCrashHandler.exe
+PID of the process is : 14076
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : BraveCrashHandler64.exe
+PID of the process is : 14084
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 14292
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 14324
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 14420
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : IGCC.exe
+PID of the process is : 14460
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 14612
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 14924
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 14936
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 15072
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 15128
+Thread Count of the process is : 46
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 15844
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : CompPkgSrv.exe
+PID of the process is : 16080
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID of the process is : 16320
+Thread Count of the process is : 8
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 16348
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 16356
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : SearchProtocolHost.exe
+PID of the process is : 16524
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : MpDefenderCoreService.exe
+PID of the process is : 16692
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 16816
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 17020
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 17096
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 17160
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : SystemSettings.exe
+PID of the process is : 17224
+Thread Count of the process is : 23
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 17372
+Thread Count of the process is : 50
+--------------------------------------------------
+Process running in the system : MoUsoCoreWorker.exe
+PID of the process is : 17640
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 17904
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 17908
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 17944
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 18088
+Thread Count of the process is : 11
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 18128
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 18168
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 18300
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 18744
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : wlanext.exe
+PID of the process is : 19332
+Thread Count of the process is : 9
+--------------------------------------------------
+Process running in the system : python.exe
+PID of the process is : 19396
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 19568
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 19680
+Thread Count of the process is : 14
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 19760
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 19844
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 19924
+Thread Count of the process is : 16
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 19952
+Thread Count of the process is : 26
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 20484
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 20752
+Thread Count of the process is : 14
+--------------------------------------------------
+Process running in the system : HelpPane.exe
+PID of the process is : 20884
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 20888
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 20964
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 21052
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : audiodg.exe
+PID of the process is : 21192
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 21548
+Thread Count of the process is : 26
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 21784
+Thread Count of the process is : 49
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 21824
+Thread Count of the process is : 10
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.exe
+PID of the process is : 22252
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 22348
+Thread Count of the process is : 29
+--------------------------------------------------
+Process running in the system : Video.UI.exe
+PID of the process is : 22468
+Thread Count of the process is : 14
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 22712
+Thread Count of the process is : 7
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 22824
+Thread Count of the process is : 24
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 23032
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 23124
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 23408
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 23532
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : FileCoAuth.exe
+PID of the process is : 23796
+Thread Count of the process is : 12
+--------------------------------------------------
+Process running in the system : crashpad_handler.exe
+PID of the process is : 23952
+Thread Count of the process is : 6
+--------------------------------------------------
+Process running in the system : M365Copilot.exe
+PID of the process is : 23988
+Thread Count of the process is : 31
+--------------------------------------------------
+Process running in the system : notepad++.exe
+PID of the process is : 24080
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 24164
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 24536
+Thread Count of the process is : 3
+--------------------------------------------------
+Process running in the system : BraveUpdate.exe
+PID of the process is : 24604
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 24880
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.tmp
+PID of the process is : 25428
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 25504
+Thread Count of the process is : 4
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 25544
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 25680
+Thread Count of the process is : 73
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 25752
+Thread Count of the process is : 15
+--------------------------------------------------
+Process running in the system : cmd.exe
+PID of the process is : 26100
+Thread Count of the process is : 1
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 26272
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 26408
+Thread Count of the process is : 18
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 26940
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 27288
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : OneDrive.Sync.Service.exe
+PID of the process is : 27348
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID of the process is : 27400
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 27620
+Thread Count of the process is : 5
+--------------------------------------------------
+Process running in the system : OneDrive.exe
+PID of the process is : 27792
+Thread Count of the process is : 44
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 27820
+Thread Count of the process is : 17
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 28092
+Thread Count of the process is : 2
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 28296
+Thread Count of the process is : 25
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 95.9 % used
+D:\ -> 22.4 % used
+E:\ -> 41.9 % used
+F:\ -> 33.9 % used
+G:\ -> 67.8 % used
+--------------------------------------------------
+
+Network Usage Report
+Sent : 33.65 MB
+Recv : 231.80 MB
+--------------------------------------------------
+--------------------------------------------------
+------------End of Log File---------------------------------------------------------

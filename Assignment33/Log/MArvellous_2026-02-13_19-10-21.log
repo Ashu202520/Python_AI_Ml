@@ -1,0 +1,658 @@
+--------------------------------------------------
+-----Marvellous Platform Surveillance System------
+Log Created at :Fri Feb 13 19:10:21 2026
+--------------------------------------------------
+
+--------------System Report------------------------
+CPU Usage : 90.9 %
+--------------------------------------------------
+RAM Usage : 96.3 %
+--------------------------------------------------
+
+Process Report
+Process running in the system : System Idle Process
+--------------------------------------------------
+Process running in the system : System
+--------------------------------------------------
+Process running in the system : Registry
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+--------------------------------------------------
+Process running in the system : smss.exe
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+--------------------------------------------------
+Process running in the system : csrss.exe
+--------------------------------------------------
+Process running in the system : igfxCUIService.exe
+--------------------------------------------------
+Process running in the system : csrss.exe
+--------------------------------------------------
+Process running in the system : wininit.exe
+--------------------------------------------------
+Process running in the system : services.exe
+--------------------------------------------------
+Process running in the system : lsass.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : winlogon.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : StartMenuExperienceHost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+--------------------------------------------------
+Process running in the system : dwm.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : IntelCpHDCPSvc.exe
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : pet.exe
+--------------------------------------------------
+Process running in the system : sihost.exe
+--------------------------------------------------
+Process running in the system : IntelCpHeciSvc.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : MemCompression
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : SynTPEnhService.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : WmiPrvSE.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : dasHost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : powershell.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : BraveUpdate.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+--------------------------------------------------
+Process running in the system : UserOOBEBroker.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : powershell.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : spoolsv.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : HPSIsvc.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : AnyDesk.exe
+--------------------------------------------------
+Process running in the system : powershell.exe
+--------------------------------------------------
+Process running in the system : AdskLicensingService.exe
+--------------------------------------------------
+Process running in the system : OneApp.IGCC.WinService.exe
+--------------------------------------------------
+Process running in the system : esif_uf.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : FNPLicensingService.exe
+--------------------------------------------------
+Process running in the system : RtkBtManServ.exe
+--------------------------------------------------
+Process running in the system : XtuService.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : CxAudioSvc.exe
+--------------------------------------------------
+Process running in the system : SECOMN64.exe
+--------------------------------------------------
+Process running in the system : SynAudSrv.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : sqlwriter.exe
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : RstMwService.exe
+--------------------------------------------------
+Process running in the system : wslservice.exe
+--------------------------------------------------
+Process running in the system : ReportingServicesService.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : LMS.exe
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : prevhost.exe
+--------------------------------------------------
+Process running in the system : jhi_service.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : ShellExperienceHost.exe
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+--------------------------------------------------
+Process running in the system : SecurityHealthService.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : dllhost.exe
+--------------------------------------------------
+Process running in the system : nearby_share.exe
+--------------------------------------------------
+Process running in the system : fdlauncher.exe
+--------------------------------------------------
+Process running in the system : SynTPEnh.exe
+--------------------------------------------------
+Process running in the system : NisSrv.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : PresentationFontCache.exe
+--------------------------------------------------
+Process running in the system : SearchIndexer.exe
+--------------------------------------------------
+Process running in the system : fdhost.exe
+--------------------------------------------------
+Process running in the system : SECOCL64.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : ctfmon.exe
+--------------------------------------------------
+Process running in the system : igfxEM.exe
+--------------------------------------------------
+Process running in the system : explorer.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : AggregatorHost.exe
+--------------------------------------------------
+Process running in the system : WmiPrvSE.exe
+--------------------------------------------------
+Process running in the system : AM_Delta_Patch_1.445.27.0.exe
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+--------------------------------------------------
+Process running in the system : MsMpEng.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : Grammarly.Desktop.exe
+--------------------------------------------------
+Process running in the system : TextInputHost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : SystemSettingsBroker.exe
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+--------------------------------------------------
+Process running in the system : Grammarly.WebUI.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : BraveUpdate.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : LockApp.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : pet.exe
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+--------------------------------------------------
+Process running in the system : ApplicationFrameHost.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : TabTip.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : BraveCrashHandler.exe
+--------------------------------------------------
+Process running in the system : BraveCrashHandler64.exe
+--------------------------------------------------
+Process running in the system : dllhost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : IGCC.exe
+--------------------------------------------------
+Process running in the system : sppsvc.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : powershell.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : CompPkgSrv.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : MpCmdRun.exe
+--------------------------------------------------
+Process running in the system : MpDefenderCoreService.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : dllhost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : SystemSettings.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : MoUsoCoreWorker.exe
+--------------------------------------------------
+Process running in the system : powershell.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+--------------------------------------------------
+Process running in the system : powershell.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : wlanext.exe
+--------------------------------------------------
+Process running in the system : python.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : setup.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : smartscreen.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : HelpPane.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : audiodg.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : powershell.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : MpSigStub.exe
+--------------------------------------------------
+Process running in the system : Video.UI.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : python.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : FileCoAuth.exe
+--------------------------------------------------
+Process running in the system : crashpad_handler.exe
+--------------------------------------------------
+Process running in the system : M365Copilot.exe
+--------------------------------------------------
+Process running in the system : setup.exe
+--------------------------------------------------
+Process running in the system : notepad++.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : BraveUpdate.exe
+--------------------------------------------------
+Process running in the system : MpCmdRun.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : wuauclt.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.tmp
+--------------------------------------------------
+Process running in the system : dllhost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : svchost.exe
+--------------------------------------------------
+Process running in the system : chrome.exe
+--------------------------------------------------
+Process running in the system : cmd.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : brave_installer-x64.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : OneDrive.Sync.Service.exe
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : OneDrive.exe
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+--------------------------------------------------
+Process running in the system : conhost.exe
+--------------------------------------------------
+Process running in the system : Code.exe
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 96.5 % used
+D:\ -> 22.4 % used
+E:\ -> 41.9 % used
+F:\ -> 33.9 % used
+G:\ -> 67.8 % used
+--------------------------------------------------
+
+Network Usage Report
+Sent : 26.25 MB
+Recv : 225.08 MB
+--------------------------------------------------
+--------------------------------------------------
+------------End of Log File---------------------------------------------------------

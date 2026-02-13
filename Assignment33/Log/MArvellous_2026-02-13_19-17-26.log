@@ -1,0 +1,877 @@
+--------------------------------------------------
+-----Marvellous Platform Surveillance System------
+Log Created at :Fri Feb 13 19:17:26 2026
+--------------------------------------------------
+
+--------------System Report------------------------
+CPU Usage : 47.2 %
+--------------------------------------------------
+RAM Usage : 85.8 %
+--------------------------------------------------
+
+Process Report With PID
+Process running in the system : System Idle Process
+PID of the process is : 0
+--------------------------------------------------
+Process running in the system : System
+PID of the process is : 4
+--------------------------------------------------
+Process running in the system : Registry
+PID of the process is : 100
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 364
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+PID of the process is : 400
+--------------------------------------------------
+Process running in the system : smss.exe
+PID of the process is : 592
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+PID of the process is : 616
+--------------------------------------------------
+Process running in the system : csrss.exe
+PID of the process is : 708
+--------------------------------------------------
+Process running in the system : igfxCUIService.exe
+PID of the process is : 796
+--------------------------------------------------
+Process running in the system : csrss.exe
+PID of the process is : 804
+--------------------------------------------------
+Process running in the system : wininit.exe
+PID of the process is : 820
+--------------------------------------------------
+Process running in the system : services.exe
+PID of the process is : 876
+--------------------------------------------------
+Process running in the system : lsass.exe
+PID of the process is : 884
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1016
+--------------------------------------------------
+Process running in the system : winlogon.exe
+PID of the process is : 1032
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1052
+--------------------------------------------------
+Process running in the system : fontdrvhost.exe
+PID of the process is : 1124
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1172
+--------------------------------------------------
+Process running in the system : WUDFHost.exe
+PID of the process is : 1216
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1320
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1328
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1336
+--------------------------------------------------
+Process running in the system : StartMenuExperienceHost.exe
+PID of the process is : 1376
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1400
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1448
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 1460
+--------------------------------------------------
+Process running in the system : dwm.exe
+PID of the process is : 1496
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1544
+--------------------------------------------------
+Process running in the system : IntelCpHDCPSvc.exe
+PID of the process is : 1576
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 1620
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1656
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1800
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1808
+--------------------------------------------------
+Process running in the system : pet.exe
+PID of the process is : 1828
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 1860
+--------------------------------------------------
+Process running in the system : sihost.exe
+PID of the process is : 1884
+--------------------------------------------------
+Process running in the system : IntelCpHeciSvc.exe
+PID of the process is : 1888
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1932
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1960
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 1996
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2116
+--------------------------------------------------
+Process running in the system : MemCompression
+PID of the process is : 2124
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2156
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2228
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2320
+--------------------------------------------------
+Process running in the system : SynTPEnhService.exe
+PID of the process is : 2352
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2368
+--------------------------------------------------
+Process running in the system : WmiPrvSE.exe
+PID of the process is : 2372
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 2380
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2396
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2448
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2500
+--------------------------------------------------
+Process running in the system : dasHost.exe
+PID of the process is : 2536
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2604
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2624
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+PID of the process is : 2700
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2724
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 2732
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2876
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2908
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2916
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2932
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 2960
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3008
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3016
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 3036
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3080
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3160
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3240
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3312
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3460
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3544
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3552
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3560
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 3612
+--------------------------------------------------
+Process running in the system : NVDisplay.Container.exe
+PID of the process is : 3708
+--------------------------------------------------
+Process running in the system : UserOOBEBroker.exe
+PID of the process is : 3756
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3816
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3836
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 3840
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3848
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 3884
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3904
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3940
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 3964
+--------------------------------------------------
+Process running in the system : spoolsv.exe
+PID of the process is : 4028
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4068
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4080
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4100
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4112
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4120
+--------------------------------------------------
+Process running in the system : HPSIsvc.exe
+PID of the process is : 4132
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4144
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4168
+--------------------------------------------------
+Process running in the system : AnyDesk.exe
+PID of the process is : 4204
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 4212
+--------------------------------------------------
+Process running in the system : AdskLicensingService.exe
+PID of the process is : 4244
+--------------------------------------------------
+Process running in the system : OneApp.IGCC.WinService.exe
+PID of the process is : 4252
+--------------------------------------------------
+Process running in the system : esif_uf.exe
+PID of the process is : 4264
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4320
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4364
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4384
+--------------------------------------------------
+Process running in the system : FNPLicensingService.exe
+PID of the process is : 4416
+--------------------------------------------------
+Process running in the system : RtkBtManServ.exe
+PID of the process is : 4428
+--------------------------------------------------
+Process running in the system : XtuService.exe
+PID of the process is : 4440
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4452
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4460
+--------------------------------------------------
+Process running in the system : CxAudioSvc.exe
+PID of the process is : 4480
+--------------------------------------------------
+Process running in the system : SECOMN64.exe
+PID of the process is : 4488
+--------------------------------------------------
+Process running in the system : SynAudSrv.exe
+PID of the process is : 4500
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4556
+--------------------------------------------------
+Process running in the system : sqlwriter.exe
+PID of the process is : 4612
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+PID of the process is : 4624
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4632
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 4648
+--------------------------------------------------
+Process running in the system : RstMwService.exe
+PID of the process is : 4652
+--------------------------------------------------
+Process running in the system : wslservice.exe
+PID of the process is : 4660
+--------------------------------------------------
+Process running in the system : ReportingServicesService.exe
+PID of the process is : 4672
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4696
+--------------------------------------------------
+Process running in the system : LMS.exe
+PID of the process is : 4720
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+PID of the process is : 4732
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 4804
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 4872
+--------------------------------------------------
+Process running in the system : prevhost.exe
+PID of the process is : 4920
+--------------------------------------------------
+Process running in the system : jhi_service.exe
+PID of the process is : 4972
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 5020
+--------------------------------------------------
+Process running in the system : ShellExperienceHost.exe
+PID of the process is : 5272
+--------------------------------------------------
+Process running in the system : sqlservr.exe
+PID of the process is : 5292
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 5324
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 5408
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+PID of the process is : 6116
+--------------------------------------------------
+Process running in the system : SecurityHealthService.exe
+PID of the process is : 6156
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 6176
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 6380
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 6772
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 6900
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 6996
+--------------------------------------------------
+Process running in the system : nearby_share.exe
+PID of the process is : 7040
+--------------------------------------------------
+Process running in the system : fdlauncher.exe
+PID of the process is : 7104
+--------------------------------------------------
+Process running in the system : SynTPEnh.exe
+PID of the process is : 7112
+--------------------------------------------------
+Process running in the system : NisSrv.exe
+PID of the process is : 7156
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 7332
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 7440
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 7556
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 7584
+--------------------------------------------------
+Process running in the system : PresentationFontCache.exe
+PID of the process is : 7976
+--------------------------------------------------
+Process running in the system : SearchIndexer.exe
+PID of the process is : 8008
+--------------------------------------------------
+Process running in the system : fdhost.exe
+PID of the process is : 8048
+--------------------------------------------------
+Process running in the system : SECOCL64.exe
+PID of the process is : 8052
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 8060
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 8120
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID of the process is : 8216
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 8324
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 8480
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 8492
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 8504
+--------------------------------------------------
+Process running in the system : ctfmon.exe
+PID of the process is : 8556
+--------------------------------------------------
+Process running in the system : igfxEM.exe
+PID of the process is : 8704
+--------------------------------------------------
+Process running in the system : explorer.exe
+PID of the process is : 8776
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 8932
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 8960
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 9092
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 9160
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 9168
+--------------------------------------------------
+Process running in the system : AggregatorHost.exe
+PID of the process is : 9400
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 9856
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 10108
+--------------------------------------------------
+Process running in the system : RtkAudUService64.exe
+PID of the process is : 10156
+--------------------------------------------------
+Process running in the system : MsMpEng.exe
+PID of the process is : 10272
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10308
+--------------------------------------------------
+Process running in the system : Grammarly.Desktop.exe
+PID of the process is : 10332
+--------------------------------------------------
+Process running in the system : TextInputHost.exe
+PID of the process is : 10348
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 10624
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10784
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10792
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 10880
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 11104
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 11112
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 11392
+--------------------------------------------------
+Process running in the system : SystemSettingsBroker.exe
+PID of the process is : 11492
+--------------------------------------------------
+Process running in the system : SearchApp.exe
+PID of the process is : 11984
+--------------------------------------------------
+Process running in the system : Grammarly.WebUI.exe
+PID of the process is : 12112
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 12256
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 12372
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 12548
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 12788
+--------------------------------------------------
+Process running in the system : LockApp.exe
+PID of the process is : 12920
+--------------------------------------------------
+Process running in the system : pet.exe
+PID of the process is : 12992
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 13216
+--------------------------------------------------
+Process running in the system : ApplicationFrameHost.exe
+PID of the process is : 13504
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 13736
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 13772
+--------------------------------------------------
+Process running in the system : TabTip.exe
+PID of the process is : 13780
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 13952
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 14024
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 14052
+--------------------------------------------------
+Process running in the system : BraveCrashHandler.exe
+PID of the process is : 14076
+--------------------------------------------------
+Process running in the system : BraveCrashHandler64.exe
+PID of the process is : 14084
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 14292
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 14324
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 14420
+--------------------------------------------------
+Process running in the system : IGCC.exe
+PID of the process is : 14460
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 14612
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 14924
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 14936
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 15072
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 15128
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 15844
+--------------------------------------------------
+Process running in the system : CompPkgSrv.exe
+PID of the process is : 16080
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID of the process is : 16320
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 16348
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 16356
+--------------------------------------------------
+Process running in the system : SearchProtocolHost.exe
+PID of the process is : 16524
+--------------------------------------------------
+Process running in the system : MpDefenderCoreService.exe
+PID of the process is : 16692
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 16816
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 17020
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 17096
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 17160
+--------------------------------------------------
+Process running in the system : SystemSettings.exe
+PID of the process is : 17224
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 17372
+--------------------------------------------------
+Process running in the system : MoUsoCoreWorker.exe
+PID of the process is : 17640
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 17904
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 17908
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 17944
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 18088
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 18128
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 18168
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 18300
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 18744
+--------------------------------------------------
+Process running in the system : wlanext.exe
+PID of the process is : 19332
+--------------------------------------------------
+Process running in the system : python.exe
+PID of the process is : 19396
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 19568
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 19680
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 19760
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 19844
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 19924
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 19952
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 20484
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 20752
+--------------------------------------------------
+Process running in the system : HelpPane.exe
+PID of the process is : 20884
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 20888
+--------------------------------------------------
+Process running in the system : RuntimeBroker.exe
+PID of the process is : 20964
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 21052
+--------------------------------------------------
+Process running in the system : audiodg.exe
+PID of the process is : 21192
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 21548
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 21784
+--------------------------------------------------
+Process running in the system : powershell.exe
+PID of the process is : 21824
+--------------------------------------------------
+Process running in the system : SearchFilterHost.exe
+PID of the process is : 21920
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.exe
+PID of the process is : 22252
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 22348
+--------------------------------------------------
+Process running in the system : Video.UI.exe
+PID of the process is : 22468
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 22712
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 22824
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 23032
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 23124
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 23408
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 23532
+--------------------------------------------------
+Process running in the system : python.exe
+PID of the process is : 23716
+--------------------------------------------------
+Process running in the system : FileCoAuth.exe
+PID of the process is : 23796
+--------------------------------------------------
+Process running in the system : crashpad_handler.exe
+PID of the process is : 23952
+--------------------------------------------------
+Process running in the system : M365Copilot.exe
+PID of the process is : 23988
+--------------------------------------------------
+Process running in the system : notepad++.exe
+PID of the process is : 24080
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 24164
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 24536
+--------------------------------------------------
+Process running in the system : BraveUpdate.exe
+PID of the process is : 24604
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 24880
+--------------------------------------------------
+Process running in the system : CodeSetup-stable-bdd88df003631aaa0bcbe057cb0a940b80a476fa.tmp
+PID of the process is : 25428
+--------------------------------------------------
+Process running in the system : dllhost.exe
+PID of the process is : 25504
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 25544
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 25680
+--------------------------------------------------
+Process running in the system : svchost.exe
+PID of the process is : 25752
+--------------------------------------------------
+Process running in the system : cmd.exe
+PID of the process is : 26100
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 26272
+--------------------------------------------------
+Process running in the system : chrome.exe
+PID of the process is : 26408
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 26940
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 27288
+--------------------------------------------------
+Process running in the system : OneDrive.Sync.Service.exe
+PID of the process is : 27348
+--------------------------------------------------
+Process running in the system : taskhostw.exe
+PID of the process is : 27400
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 27620
+--------------------------------------------------
+Process running in the system : OneDrive.exe
+PID of the process is : 27792
+--------------------------------------------------
+Process running in the system : msedgewebview2.exe
+PID of the process is : 27820
+--------------------------------------------------
+Process running in the system : conhost.exe
+PID of the process is : 28092
+--------------------------------------------------
+Process running in the system : Code.exe
+PID of the process is : 28296
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 95.9 % used
+D:\ -> 22.4 % used
+E:\ -> 41.9 % used
+F:\ -> 33.9 % used
+G:\ -> 67.8 % used
+--------------------------------------------------
+
+Network Usage Report
+Sent : 32.07 MB
+Recv : 230.30 MB
+--------------------------------------------------
+--------------------------------------------------
+------------End of Log File---------------------------------------------------------
